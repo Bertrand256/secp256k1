@@ -1,0 +1,4 @@
+#!/bin/bash
+
+LIB_VERSION=210521
+export LIB_VERSION
